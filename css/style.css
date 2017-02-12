@@ -1,0 +1,19 @@
+.thumbnail.avatar {
+	width: 100%;
+	border-radius: 50%;
+}
+
+h3.panel-title {
+	font-size: 22px !important;
+}
+
+.label-block {
+	margin: 13px auto 25px;
+}
+
+span.label {
+	padding: 4px 6px;
+	border-radius: 3px;
+	font-size: 18px;
+	margin-right: 10px;
+}
